@@ -1,30 +1,30 @@
-**FOR CLIENT** 
+# **FOR CLIENT** 
 cd client
 npm install
-# or
+or
 yarn install
 
-**FOR SERVER**
+# **FOR SERVER**
 cd client
 npm install
-# or
+or
 yarn install
 
 
-**RUNNING THE PROJECT**
-#FOR CLIENT
+# **RUNNING THE PROJECT**
+**FOR CLIENT**
 
 cd client
 npm start
-# or
+or
 yarn start
 The client will run on http://localhost:3000.
 
-**RUNNING THE SERVER**
-
+# **RUNNING THE SERVER**
+**FOR SERVER**
 cd ../server
 npm start
-# or
+or
 yarn start
 
 
