@@ -1,15 +1,19 @@
 # **FOR CLIENT** 
 cd client
 
-
 npm install
+
 or
+
 yarn install
 
 # **FOR SERVER**
-cd client
+cd client 
+
 npm install
+
 or
+
 yarn install
 
 
